@@ -1,4 +1,4 @@
-p<a href="/index">HOME </a> | <a href="/datapacks">    DATAPACKS</a> | <a href="/server">    SERVER</a>
+<p><a href="/index">HOME </a> | <a href="/datapacks">    DATAPACKS</a> | <a href="/server">    SERVER</a></p>
 
 <hr>
 
