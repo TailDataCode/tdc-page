@@ -15,14 +15,14 @@
 <p><img src="/images/Lunekiska-70x70.png"/><b> Lunekiska</b><br><br>
     Main idea creator and lead code developer(soon™)</p>
     
-  <p><b>Free slot</b><br><br>
+  <p><img src="/images/free-slot-70x70.png"/><b> Free slot</b><br><br>
     Texture artist</p>
     
   <p><img src="/images/Maggishii-70x70.png"/><b> Maggishii?</b><br><br>
-    Skin and character creator</p>
+    Skin and character concept creator</p>
     
-  <p><b>Free slot</b><br><br>
+  <p><img src="/images/free-slot-70x70.png"/><b> Free slot</b><br><br>
     Code developer</p>
     
-  <p><b>Free slot</b><br><br>
+  <p><img src="/images/free-slot-70x70.png"/><b> Free slot</b><br><br>
     Client mod developer</p>
