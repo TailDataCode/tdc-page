@@ -18,7 +18,7 @@
   <p><b>Free slot</b><br><br>
     Texture artist</p>
     
-  <p><b>Maggishii?</b><br><br>![](https://pbs.twimg.com/media/FTD4k0_XoAAqeLd?format=jpg&name=large)
+  <p><b>Maggishii?</b><br><br>![Maggie](https://pbs.twimg.com/media/FTD4k0_XoAAqeLd?format=jpg&name=large)
     Skin and character creator</p>
     
   <p><b>Free slot</b><br><br>
