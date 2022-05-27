@@ -12,7 +12,7 @@
 <hr>
 
 <h3>MEMBERS</h3>
-  <p>![lunekiska]([https://github.com/altercation/solarized/raw/master/img/solarized-vim.png](https://github.com/TailDataCode/tdc-page/blob/main/images/Lunekiska-70x70.png)) <b>Lunekiska</b><br><br>
+  <p>![lunekiska](https://raw.githubusercontent.com/TailDataCode/tdc-page/main/images/Lunekiska-70x70.png) <b>Lunekiska</b><br><br>
     Main idea creator and lead code developer(soon™)</p>
     
   <p><b>Free slot</b><br><br>
