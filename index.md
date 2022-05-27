@@ -12,7 +12,7 @@
 <hr>
 
 <h3>MEMBERS</h3>
-  <p>![lunekiska](https://raw.githubusercontent.com/TailDataCode/tdc-page/main/images/Lunekiska-70x70.png) <b>Lunekiska</b><br><br>
+<img src="/images/Lunekiska-70x70.png"/><p><b>Lunekiska</b><br><br>
     Main idea creator and lead code developer(soon™)</p>
     
   <p><b>Free slot</b><br><br>
