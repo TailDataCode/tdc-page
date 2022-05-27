@@ -12,7 +12,7 @@
 <hr>
 
 <h3>MEMBERS</h3>
-<p><img src="/images/Lunekiska-70x70.png"/><b> [Lunekiska](https://twitter.com/lemq_ocp)</b> -> Main idea creator and lead code developer(soon™)</p>
+<p><img src="/images/Lunekiska-70x70.png"/><b><a href= "https://twitter.com/lemq_ocp">[Lunekiska]</b> -> Main idea creator and lead code developer(soon™)</p>
     
   <p><img src="/images/free-slot-70x70.png"/><b> Free slot</b> -> Texture artist</p>
     
