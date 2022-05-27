@@ -12,7 +12,7 @@
 <hr>
 
 <h3>MEMBERS</h3>
-  <p>![](/images/Lunekiska-70x70.png)<b>Lunekiska</b><br><br>
+  <p>![](/images/Lunekiska-70x70.png?raw=true)<b>Lunekiska</b><br><br>
     Main idea creator and lead code developer(soon™)</p>
     
   <p><b>Free slot</b><br><br>
