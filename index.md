@@ -12,11 +12,11 @@
 <hr>
 
 <h3>MEMBERS</h3>
-<p><img src="/images/Lunekiska-70x70.png"/><b> Lunekiska</b> -> Main idea creator and lead code developer(soon™)</p>
+<p><img src="/images/Lunekiska-70x70.png"/><b> [Lunekiska](https://twitter.com/lemq_ocp)</b> -> Main idea creator and lead code developer(soon™)</p>
     
   <p><img src="/images/free-slot-70x70.png"/><b> Free slot</b> -> Texture artist</p>
     
-  <p><img src="/images/Maggishii-70x70.png"/><b> Maggishii(?)</b> -> Skins pack creator</p>
+  <p><img src="/images/Maggishii-70x70.png"/><b> [Maggishii](https://twitter.com/Maggishii)(?)</b> -> Skins pack creator</p>
     
   <p><img src="/images/free-slot-70x70.png"/><b> Free slot</b> -> Code developer</p>
     
