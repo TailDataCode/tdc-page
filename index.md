@@ -16,7 +16,7 @@
     
   <p><img src="/images/free-slot-70x70.png"/><b> Free slot</b> -> Texture artist</p>
     
-  <p><img src="/images/Maggishii-70x70.png"/><b><a href= "https://twitter.com/Maggishii">[Maggishii]</a>(?)</b> -> Skins pack creator</p>
+  <p><img src="/images/Maggishii-70x70.png"/><b><a href= "https://twitter.com/Maggishii">[Maggishii]</a>(?)</b> -> Skins pack creator & featured artist</p>
     
   <p><img src="/images/free-slot-70x70.png"/><b> Free slot</b> -> Code developer</p>
     
