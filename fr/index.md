@@ -1,4 +1,4 @@
-<p><a href="../fr/index">HOME </a> | <a href="../fr/datapacks">    PACKS DE DONNÉES</a> | <a href="../fr/server">    SERVEUR</a></p> | <a href="../index">    ENGLISH</a></p> | <a href="../es/index">    ESPAÑOL</a></p>
+<p><a href="../fr/index">HOME </a> | <a href="../fr/datapacks">    PACKS DE DONNÉES</a> | <a href="../fr/server">    SERVEUR</a> | <a href="../index">    ENGLISH</a> | <a href="../es/index">    ESPAÑOL</a></p>
 
 <hr>
 
