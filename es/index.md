@@ -2,22 +2,22 @@
 
 <hr>
 
-<h1>WELCOME!</h1>
-<p>We are Tail Data Code, we are making custom Minecraft server with datapacks</p>
+<h1>BIENVENIDOS!</h1>
+<p>Somos Tail Data Code, estamos haciendo un servidor Minecraft personalizado con datapacks</p>
 
 <hr>
 
-<p>For information about our projects, go to dedicated categories</p>
+<p>Para obtener información sobre nuestros proyectos, diríjase a la categorías dedicadas</p>
 
 <hr>
 
-<h3>MEMBERS</h3>
-<p><img src="/images/Lunekiska-70x70.png"/><b><a href= "https://twitter.com/lemq_ocp">[Lunekiska]</a></b> -> Main idea creator and lead code developer(soon™)</p>
+<h3>MIEMBROS</h3>
+<p><img src="/images/Lunekiska-70x70.png"/><b><a href= "https://twitter.com/lemq_ocp">[Lunekiska]</a></b> -> Creador de la idea principal y desarrollador de código principal(ptonto™)</p>
     
-  <p><img src="/images/free-slot-70x70.png"/><b> Free slot</b> -> Texture artist</p>
+  <p><img src="/images/free-slot-70x70.png"/><b> Free slot</b> -> Artista de texturas</p>
     
-  <p><img src="/images/Maggishii-70x70.png"/><b><a href= "https://twitter.com/Maggishii">[Maggishii]</a>(?)</b> -> Skins pack creator & featured artist</p>
+  <p><img src="/images/Maggishii-70x70.png"/><b><a href= "https://twitter.com/Maggishii">[Maggishii]</a>(?)</b> -> Creador del pack de skins y artista destacado</p>
     
-  <p><img src="/images/free-slot-70x70.png"/><b> Free slot</b> -> Code developer</p>
+  <p><img src="/images/free-slot-70x70.png"/><b> Free slot</b> -> Desarrollador de código</p>
     
-  <p><img src="/images/free-slot-70x70.png"/><b> Free slot</b> -> Client mod developer</p>
+  <p><img src="/images/free-slot-70x70.png"/><b> Free slot</b> -> Desarrollador de mod de cliente</p>
