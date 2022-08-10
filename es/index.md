@@ -12,7 +12,7 @@
 <hr>
 
 <h3>MIEMBROS</h3>
-<p><img src="/images/Lunekiska-70x70.png"/><b><a href= "https://twitter.com/lemq_ocp">[Lunekiska]</a></b> -> Creador de la idea principal y desarrollador de código principal(ptonto™)</p>
+<p><img src="/images/Lunekiska-70x70.png"/><b><a href= "https://twitter.com/lemq_ocp">[Lunekiska]</a></b> -> Creador de la idea principal y desarrollador de código principal(pronto™)</p>
     
   <p><img src="/images/free-slot-70x70.png"/><b> Free slot</b> -> Artista de texturas</p>
     
