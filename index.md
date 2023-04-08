@@ -1,4 +1,4 @@
-<p><a href="/index">HOME </a> | <a href="/datapacks">    DATAPACKS</a> | <a href="/server">    SERVER</a> | <a href="/mods">    MODS</a> | <a href="/server"> | <a href="/fr/index">    FRANÇAIS</a> | <a href="/es/index">    ESPAÑOL</a></p>
+<p><a href="/index">HOME </a> | <a href="/datapacks">    DATAPACKS</a> | <a href="/server">    SERVER</a> | <a href="/mods">    MODS</a> | <a href="/fr/index">    FRANÇAIS</a> | <a href="/es/index">    ESPAÑOL</a></p>
 
 <hr>
 
