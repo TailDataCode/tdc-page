@@ -3,7 +3,7 @@
 <hr>
 
 <h1>WELCOME!</h1>
-<p>We are Tail Data Code, we are making custom Minecraft server with datapacks</p>
+<p>We are Tail Data Code, we are making custom Minecraft server with datapacks + mods</p>
 
 <hr>
 
